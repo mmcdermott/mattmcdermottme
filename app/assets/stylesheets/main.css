@@ -11,14 +11,15 @@ ul, ol {
 #sitewide-header {
   position: absolute;
   top: 0;
-  height: 15em;
+  height: 12em;
   border: 1px solid black;
   width: 100%
 }
 
 #sitewide-header nav {
   position: absolute;
-  top: 11em;
+  top: 8em;
+  left: 5em;
 }
 
 #sitewide-header nav ul li {
@@ -47,6 +48,6 @@ ul, ol {
 }
 
 .content {
-  margin-top: 15em;
+  margin-top: 12em;
   border: 1px solid black;
 }
