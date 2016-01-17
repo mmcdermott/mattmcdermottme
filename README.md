@@ -1,4 +1,4 @@
 mattmcdermottme
 ===============
 
-A repository to manage my website files
+My personal website files, as well as experiments with node and other web technologies.
