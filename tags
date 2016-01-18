@@ -1,0 +1,6 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+fs	/home/matthew/projects/mattmcdermottme/index.js	/^var fs   = require('fs');$/;"	v	language:JavaScript
+http	/home/matthew/projects/mattmcdermottme/index.js	/^var http = require('http');$/;"	v	language:JavaScript
+path	/home/matthew/projects/mattmcdermottme/index.js	/^var path = require('path');$/;"	v	language:JavaScript
+server	/home/matthew/projects/mattmcdermottme/index.js	/^var server = http.createServer(function(request,response) {$/;"	v	language:JavaScript
+serverPort	/home/matthew/projects/mattmcdermottme/index.js	/^var serverPort = 8080;$/;"	v	language:JavaScript
