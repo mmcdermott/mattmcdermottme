@@ -71,7 +71,7 @@ theme: tranquilpeak
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
 - type: heroku
-  repo: https://mattmcdermott-me.herokuapp.com/
+  repo: git@heroku.com:mattmcdermott-me.git
 
 # RSS Feeds
 feed:
