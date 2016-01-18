@@ -70,6 +70,8 @@ theme: tranquilpeak
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
+- type: git
+  repo: git@github.com:mmcdermott/mattmcdermottme.git
 - type: heroku
   repo: git@heroku.com:mattmcdermott-me.git
 
